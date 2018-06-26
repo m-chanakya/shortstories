@@ -1,0 +1,225 @@
+[{
+    "id": 2,
+    "questions": [
+        "What was Peplov’s plan?",
+        "Why did Natashenka wish to marry an author?",
+        "Why was Peplov angry?"
+    ],
+    "options": [
+        ["To get rid of the ikon", "To catch Shchupkin and his daughter in the act", "Trap Shchupkin into marrying his daughter by blessing them with the ikon"],
+        ["Authors are rich", "Nekrassov was her favorite author", "He would write her poems."],
+        ["Shchupkin had refused to marry his daughter.", "He had blessed Shchupkin while holding the wrong painting", "Shchupkin had tried to kiss his daughter"]
+    ],
+    "answers": [3, 3, 2]
+},
+
+{
+    "id": 7,
+    "questions": [
+        "How did the animals find out about the painting?",
+        "Why could the animals not see the painting?",
+        "Why was Hathi angry?"
+    ],
+    "options": [
+        ["They saw it through the hole the wall", "The cat told them", "The artist told them"],
+        ["They stood in between the painting and the mirror", "The cat had lied to them", "They didn’t know where to look"],
+        ["He didn’t like the cat", "His subjects had lied to him", "He didn’t like looking at other elephants"]
+    ],
+    "answers": [2, 1, 2]
+},
+
+{
+    "id": 69,
+    "questions": [
+        "Why were the other animals angry with the camel?",
+        "How did the camel get his hump?",
+        "How long can the camel live off his hump?"
+    ],
+    "options": [
+        ["He would say ‘Humph’ to everything", "The camel lived in the Desert", "They had to work double-time because he refused to work"],
+        ["He was cursed by the Djinn", "He ate too much", "The other animals beat him up"],
+        ["A week", "3 days", "5 days"]
+    ],
+    "answers": [3, 1, 2]
+},
+
+{
+    "id": 154,
+    "questions": [
+        "Why couldn’t the little girl go home?",
+        "What did the girl think when one of the stars fell down?",
+        "Why did the girl burn the whole bundle of matches?"
+    ],
+    "options": [
+        ["She was lost", "She didn’t have a home", "Her father would beat her for not selling any matches"],
+        ["She should make a wish", "Someone is just dead", "Her grandmother has come back for her"],
+        ["To keep warm", "To make it brighter", "To make her grandmother stay longer"]
+    ],
+    "answers": [3, 2, 3]
+},
+
+{
+    "id": 157,
+    "questions": [
+        "Why did the master write a note to William’s father?",
+        "What did Joe do with the note?",
+        "Why did Billy go back to the shaft?"
+    ],
+    "options": [
+        ["Billy had skipped school and ‘went swimming’", "Billy had got into a fight", "Billy was caught stealing"],
+        ["Gave it to his father", "Tore it up", "Threw it down a shaft"],
+        ["He felt bad for Joe and wanted to retrieve the note", "He wanted to burn the note", "He was looking for possums"]
+    ],
+    "answers": [1, 3, 1]
+},
+
+{
+    "id": 16,
+    "questions": [
+        "What was the colour of the suit",
+        "What occasion was the suit destined for",
+        "What did the boy wanted to do with the suit"
+    ],
+    "options": [
+        ["Black and White", "Red and Blue", "Green and Gold"],
+        ["Birthday", "Graduation", "Wedding"],
+        ["Wear it", "Fold it and put it away", "Put little guards over the cuffs and elbows"]
+    ],
+    "answers": [3, 3, 1]
+},
+
+{
+    "id": 41,
+    "questions": [
+        "Who was Benjamin named after?",
+        "Why didn’t Benjamin’s father let him go to the sea?",
+        "Why did Ben leave his elder brother’s printing business?"
+    ],
+    "options": [
+        ["His father", "His grandfather", "His uncle"],
+        ["He was afraid he would die", "His brother had gone to the sea and never returned", "He didn’t have enough money"],
+        ["He would hit Ben", "Ben didn’t like the work", "Ben wanted to go to Philadelphia"]
+    ],
+    "answers": [3, 2, 1]
+},
+
+{
+    "id": 25,
+    "questions": [
+        "Who was wearing white kid gloves",
+        "Who had false teeth",
+        "What was the name of the grand affair"
+    ],
+    "options": [
+        ["Mrs. G. W.", "Mrs. C. N.", "Mrs. W. M."],
+        ["Mrs. G. W.", "Mrs. C. N.", "Mrs. L. R."],
+        ["thrilling waterfall", "vivacity", "the Pioneers"]
+    ],
+    "answers": [2, 3, 3]
+},
+
+{
+    "id": 50,
+    "questions": [
+        "What was the tyrant’s name?",
+        "What was the punishment given by the tyrant?",
+        "What was the offender’s last wish?"
+    ],
+    "options": [
+        ["Dionysius", "Pythias", "Damon"],
+        ["Slavery", "Death", "Imprisonment"],
+        ["Meet friends and family", "Drink ale", "See the clear skies"]
+    ],
+    "answers": [1, 2, 1]
+},
+
+{
+    "id": 178,
+    "questions": [
+        "Why did everyone trust Cincinnatus?",
+        "Why was Cincinnatus made the ruler of Rome?",
+        "How long did Cincinnatus serve as Rome’s ruler?"
+    ],
+    "options": [
+        ["He was wealthy", "He was wise", "He was a brave warrior"],
+        ["The previous king had died in the war against the mountain people", "The people of Rome wanted a new king", "To save the Roman army trapped in the mountains"],
+        ["4 months", "4 days", "16 days"]
+    ],
+    "answers": [2, 3, 3]
+},
+
+{
+    "id": 54,
+    "questions": [
+        "What is the Martian substitute for alcohol?",
+        "How old was the Martian civilization?",
+        "What was the name of the leader of Mars"
+    ],
+    "options": [
+        ["Cocoa", "Menthol", "Water"],
+        ["50, 000 years", "25, 000 years", "900 years"],
+        ["Khee", "Willie", "Dhar Ry"]
+    ],
+    "answers": [2, 1, 3]
+},
+
+{
+    "id": 186,
+    "questions": [
+        "How many days a week did the brothers work?",
+        "Why did John run towards the mountain?",
+        "Why did Athanasius repent?"
+    ],
+    "options": [
+        [5, 6, 7],
+        ["He was being pursued by a beast", "To get his shovel", "To get away from the temptation of gold"],
+        ["What he had done was for himself, not God", "Because he was not allowed to meet his brother", "He had become boastful"]
+    ],
+    "answers": [2, 3, 1]
+},
+
+{
+    "id": 67,
+    "questions": [
+        "Who was king of the Etruscans",
+        "Which city did Etruscans attack",
+        "What was Horatius called after the war"
+    ],
+    "options": [
+        ["Horatius", "Porsena", "Tiber"],
+        ["Rome", "Latium", "Campania"],
+        ["Horatius the great", "Horatius Cocles", "Horatius Hercule"]
+    ],
+    "answers": [2, 1, 2]
+},
+
+{
+    "id": 59,
+    "questions": [
+        "Why was Dullamy eager to marry his daughter off?",
+        "What is Filboid Studge?",
+        "Why did Spayley curse the day he made the wonder-working poster for Pipenta?"
+    ],
+    "options": [
+        ["He was getting old", "His daughter was getting old", "He was in a financial cricis"],
+        ["A drug", "A breakfast food", "A new drink"],
+        ["Spayley wasn’t given any credit for his work", "Dullamy found a richer groom for his daughter", "Leonore hated him for making the poster"]
+    ],
+    "answers": [3, 2, 2]
+},
+
+{
+    "id": 84,
+    "questions": [
+        "What is the name of Ashok's daughter",
+        "What is the name of Kabir's sister",
+        "Which organ did Muskaan donate"
+    ],
+    "options": [
+        ["Damini", "Nishi", "Muskaan"],
+        ["Damini", "Nishi", "Muskaan"],
+        ["Eyes", "Liver", "Kidney"]
+    ],
+    "answers": [2, 3, 1]
+}
+]

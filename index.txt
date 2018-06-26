@@ -1,0 +1,202 @@
+|   Index | Story Name                                               | Author                   |   Story Length |   T_Length |   A_Length |
+|---------+----------------------------------------------------------+--------------------------+----------------+------------+------------|
+|       1 | A Baffled Ambuscade                                      | Ambrose Bierce           |            779 |        228 |          0 |
+|       2 | A Blunder                                                | Anton Chekhov            |            670 |        239 |          0 |
+|       3 | A Christmas Letter                                       | Stephen Leacock          |            371 |        179 |        177 |
+|       4 | A Cold Greeting                                          | Ambrose Bierce           |            613 |        245 |        263 |
+|       5 | A Country Cottage                                        | Anton Chekhov            |            699 |        219 |        206 |
+|       6 | A Dead Secret                                            | Lafcadio Hearn           |            966 |        410 |          0 |
+|       7 | A Fable                                                  | Mark Twain               |            803 |        372 |        266 |
+|       8 | A Fruitless Assignment                                   | Ambrose Bierce           |           1086 |        357 |          0 |
+|       9 | A Handful of Clay                                        | Henry Van Dyke           |            973 |        291 |          0 |
+|      10 | A Harbinger                                              | Kate Chopin              |            407 |        147 |          0 |
+|      11 | A Humane Word from Satan                                 | Mark Twain               |            386 |        178 |        146 |
+|      12 | A Letter from Santa Claus                                | Mark Twain               |            539 |        223 |        137 |
+|      13 | A Little Free-Mulatto                                    | Kate Chopin              |            393 |        171 |          0 |
+|      14 | A Man with Two Lives                                     | Ambrose Bierce           |            946 |        338 |          0 |
+|      15 | A Monument to Adam                                       | Mark Twain               |            739 |        268 |          0 |
+|      16 | A Moonlight Fable                                        | Hg Wells                 |            352 |        157 |        132 |
+|      17 | A Reminiscence of the Back Settlements                   | Mark Twain               |            936 |        193 |          0 |
+|      18 | A Royal Compliment                                       | Mark Twain               |           1087 |        146 |          0 |
+|      19 | A Story of Robin Hood                                    | James Baldwin            |            945 |        255 |          0 |
+|      20 | A Strange Story                                          | O Henry                  |            357 |        178 |          0 |
+|      21 | A Tent in Agony                                          | Stephen Crane            |           1018 |        203 |          0 |
+|      22 | A Turkey Hunt                                            | Kate Chopin              |            640 |        268 |          0 |
+|      23 | A Wireless Message                                       | Ambrose Bierce           |            811 |        224 |          0 |
+|      24 | Advice To Little Girls                                   | Mark Twain               |            386 |        185 |        148 |
+|      25 | After Jenkins                                            | Mark Twain               |            304 |        159 |          0 |
+|      26 | Alexander and Bucephalus                                 | James Baldwin            |            406 |        208 |          0 |
+|      27 | Amy's Question                                           | Ts Arthur                |            880 |        370 |          0 |
+|      28 | An Arrest                                                | Ambrose Bierce           |            591 |        178 |          0 |
+|      29 | An Idle Fellow                                           | Kate Chopin              |            374 |        176 |          0 |
+|      30 | An Imperial Message                                      | Franz Kafka              |            390 |        167 |        177 |
+|      31 | An Old Game                                              | Henry Van Dyke           |            684 |        361 |          0 |
+|      32 | An Uncomfortable Bed                                     | Guy De Maupassant        |            955 |        105 |          0 |
+|      33 | An Unfinished Race                                       | Ambrose Bierce           |            375 |        176 |          0 |
+|      34 | Androclus and the Lion                                   | James Baldwin            |            676 |        326 |        214 |
+|      35 | Antonio Canova                                           | James Baldwin            |           1022 |        445 |          0 |
+|      36 | Antwerp Road                                             | Henry Van Dyke           |            450 |        158 |          0 |
+|      37 | Arnold Winkelried                                        | James Baldwin            |            468 |        198 |          0 |
+|      38 | Ashes of Vengeance                                       | Henry Van Dyke           |            521 |        107 |          0 |
+|      39 | At Old Man Eckert's                                      | Ambrose Bierce           |            808 |        141 |          0 |
+|      40 | Before the Law                                           | Franz Kafka              |            642 |        263 |          0 |
+|      41 | Benjamin Franklin- A Child's Biography                   | Benjamin Franklin        |           1052 |        456 |          0 |
+|      42 | Borrowing a Match                                        | Stephen Leacock          |            498 |        235 |        159 |
+|      43 | Boulot and Boulotte                                      | Kate Chopin              |            440 |        165 |          0 |
+|      44 | Bruce and the Spider                                     | James Baldwin            |            377 |        176 |          0 |
+|      45 | Caline                                                   | Kate Chopin              |            894 |        169 |          0 |
+|      46 | Casabianca                                               | James Baldwin            |            527 |        155 |          0 |
+|      47 | Charles Ashmore's Trail                                  | Ambrose Bierce           |            656 |        127 |          0 |
+|      48 | Clara Barton- A Child's Biography                        | Clara Barton             |           1068 |        485 |          0 |
+|      49 | Cornelia's Jewels                                        | James Baldwin            |            507 |        182 |        176 |
+|      50 | Damon and Pythias                                        | James Baldwin            |            483 |        169 |          0 |
+|      51 | Dan Murphy                                               | Mark Twain               |            319 |        126 |        113 |
+|      52 | Diogenes the Wise Man                                    | James Baldwin            |            360 |        188 |          0 |
+|      53 | Doctor Chevalier's Lie                                   | Kate Chopin              |            383 |        162 |        153 |
+|      54 | Earthmen Bearing Gifts                                   | Frederic Brown           |            859 |        132 |          0 |
+|      55 | Emancipation. A Life Fable                               | Kate Chopin              |            344 |        155 |        151 |
+|      56 | English Fairy Tale- Tamlane                              | W W Jacobs               |            947 |        410 |          0 |
+|      57 | Fat And Thin                                             | Anton Chekhov            |            807 |        325 |          0 |
+|      58 | Fickle Fortune or How Gladys Hustled                     | O Henry                  |            965 |        374 |          0 |
+|      59 | Filboid Studge                                           | Hh Munro Saki            |           1036 |        333 |        237 |
+|      60 | Five Little Pigs                                         | Joseph Martin Kronheim   |            689 |        353 |        297 |
+|      61 | Grace Darling                                            | James Baldwin            |            572 |        264 |        234 |
+|      62 | Hatred is Sweet, but God is Strong                       | Leo Tolstoy              |            988 |        183 |          0 |
+|      63 | Hearts And Hands                                         | O Henry                  |            866 |        394 |          0 |
+|      64 | Hermann The Irascible                                    | Hh Munro Saki            |            976 |        323 |          0 |
+|      65 | History Repeats Itself                                   | Mark Twain               |            399 |        177 |        186 |
+|      66 | Honored As A Curiosity                                   | Mark Twain               |            406 |        161 |          0 |
+|      67 | Horatius at the Bridge                                   | James Baldwin            |            684 |        254 |          0 |
+|      68 | How The Author Was Sold In Newark                        | Mark Twain               |            566 |        219 |          0 |
+|      69 | How the Camel Got His Hump                               | Rudyard Kipling          |            867 |        421 |          0 |
+|      70 | How the Rhinoceros Got His Skin                          | Rudyard Kipling          |            819 |        249 |        249 |
+|      71 | How the Whale Got His Throat                             | Rudyard Kipling          |            963 |        329 |          0 |
+|      72 | In The Graveyard                                         | Anton Chekhov            |            956 |        120 |          0 |
+|      73 | Information Wanted                                       | Mark Twain               |            816 |        390 |          0 |
+|      74 | Innocence                                                | Honore De Balzac         |            724 |        245 |          0 |
+|      75 | Instinct Gone Wrong                                      | Henry Lawson             |            684 |        109 |          0 |
+|      76 | John Mortonson's Funeral                                 | Ambrose Bierce           |            540 |        206 |          0 |
+|      77 | Joy                                                      | Anton Chekhov            |            691 |        272 |          0 |
+|      78 | Julius Caesar                                            | James Baldwin            |            357 |        138 |          0 |
+|      79 | Justice of the Elements                                  | Henry Van Dyke           |            360 |        196 |          0 |
+|      80 | Keeping Christmas                                        | Henry Van Dyke           |            476 |        103 |          0 |
+|      81 | King Alfred and the Beggar                               | James Baldwin            |            543 |        227 |        191 |
+|      82 | King Alfred and the Cakes                                | James Baldwin            |            512 |        126 |        144 |
+|      83 | King Canute on the Seashore                              | James Baldwin            |            412 |        157 |        142 |
+|      84 | Life After Death                                         | Arnaba Saha              |            551 |        155 |          0 |
+|      85 | Lord Oakhurst's Curse                                    | O Henry                  |            914 |        157 |          0 |
+|      86 | Louisa May Alcott- A Child's Biography                   | Louisa May Alcott        |           1102 |        163 |          0 |
+|      87 | Maximilian and the Goose Boy                             | James Baldwin            |            905 |        240 |          0 |
+|      88 | Memory                                                   | H P Lovecraft            |            352 |        158 |          0 |
+|      89 | Mercury And The Woodman                                  | Aesop                    |            435 |        284 |          0 |
+|      90 | Mignon                                                   | James Baldwin            |            987 |        490 |          0 |
+|      91 | Motherhood                                               | Sherwood Anderson        |            595 |        283 |          0 |
+|      92 | My Financial Career                                      | Stephen Leacock          |            893 |        491 |          0 |
+|      93 | My First Literary Venture                                | Mark Twain               |            819 |        386 |          0 |
+|      94 | Old Aunt Peggy                                           | Kate Chopin              |            325 |        126 |          0 |
+|      95 | Old Mother Goose and Her Son Jack                        | Joseph Martin Kronheim   |            961 |        322 |        319 |
+|      96 | On Collecting Things                                     | Stephen Leacock          |            796 |        144 |        135 |
+|      97 | One Summer Night                                         | Ambrose Bierce           |            616 |        130 |          0 |
+|      98 | Other Wise Men of Gotham                                 | James Baldwin            |            923 |        197 |          0 |
+|      99 | Party Cries In Ireland                                   | Mark Twain               |            355 |        160 |        158 |
+|     100 | Picciola                                                 | James Baldwin            |           1055 |        168 |          0 |
+|     101 | Pocahontas                                               | James Baldwin            |            318 |        154 |        134 |
+|     102 | Present at a Hanging                                     | Ambrose Bierce           |            706 |        123 |          0 |
+|     103 | Seeing the Last of You                                   | Henry Lawson             |            522 |        212 |          0 |
+|     104 | Senility                                                 | Sherwood Anderson        |            789 |        407 |          0 |
+|     105 | Sir Philip Sidney                                        | James Baldwin            |            309 |        120 |          0 |
+|     106 | Sir Walter Raleigh                                       | James Baldwin            |            407 |         72 |          0 |
+|     107 | Smut                                                     | W. K. Clifford           |            441 |        202 |          0 |
+|     108 | Staley Fleming's Hallucination                           | Ambrose Bierce           |            843 |        127 |          0 |
+|     109 | Sunset                                                   | Arnaba Saha              |            323 |        128 |          0 |
+|     110 | The Aged Mother                                          | Matsuo Basho             |            895 |        181 |          0 |
+|     111 | The Album                                                | Anton Chekhov            |            804 |        105 |          0 |
+|     112 | The Animals And The Plague                               | Aesop                    |            441 |        207 |        151 |
+|     113 | The Ass And The Lap Dog                                  | Aesop                    |            308 |        136 |          0 |
+|     114 | The Awful Fate of Melpomenus Jones                       | Stephen Leacock          |            925 |        196 |          0 |
+|     115 | The Barmecide Feast                                      | James Baldwin            |            742 |        300 |          0 |
+|     116 | The Bees And Wasps And The Hornet                        | Aesop                    |            303 |        169 |          0 |
+|     117 | The Benitous' Slave                                      | Kate Chopin              |            656 |        263 |          0 |
+|     118 | The Bird                                                 | Leo Tolstoy              |            593 |        258 |          0 |
+|     119 | The Black Douglas                                        | James Baldwin            |            640 |        277 |          0 |
+|     120 | The Blind Men and the Elephant                           | James Baldwin            |            412 |        183 |        150 |
+|     121 | The Brave Three Hundred                                  | James Baldwin            |            400 |        162 |          0 |
+|     122 | The Buckwheat                                            | Hans Christian Andersen  |            651 |        262 |          0 |
+|     123 | The Cat And The Old Rat                                  | Aesop                    |            334 |        156 |        131 |
+|     124 | The Cat The Cock And The Young Mouse                     | Aesop                    |            359 |        147 |        163 |
+|     125 | The Cock And The Fox                                     | Aesop                    |            313 |        100 |        139 |
+|     126 | The Coming of the King                                   | Laura E Richards         |            609 |        121 |          0 |
+|     127 | The Dandy Frightening the Squatter                       | Mark Twain               |            415 |        141 |          0 |
+|     128 | The Death Of A Government Clerk                          | Anton Chekhov            |           1017 |        358 |        203 |
+|     129 | The Difficulty of Crossing a Field                       | Ambrose Bierce           |            754 |        159 |          0 |
+|     130 | The Dog The Cock And The Fox                             | Aesop                    |            306 |        141 |          0 |
+|     131 | The Dumb Man                                             | Sherwood Anderson        |            535 |        195 |          0 |
+|     132 | The Endless Tale                                         | James Baldwin            |            645 |        277 |          0 |
+|     133 | The Fable of the Kid Who Shifted His Ideal               | George Ade               |            337 |        121 |        122 |
+|     134 | The Fable of the Parents Who Tinkered with the Offspring | George Ade               |            423 |        203 |        167 |
+|     135 | The Farm Yard Cock And The Weather Cock                  | Hans Christian Andersen  |            859 |        371 |          0 |
+|     136 | The Five Boons of Life                                   | Mark Twain               |            754 |        315 |          0 |
+|     137 | The Force of Statistics                                  | Stephen Leacock          |            384 |        193 |          0 |
+|     138 | The Fox Without A Tail                                   | Aesop                    |            306 |        158 |          0 |
+|     139 | The Golden Windows                                       | Laura E Richards         |            955 |        171 |          0 |
+|     140 | The Gray Hare                                            | Leo Tolstoy              |            560 |        223 |          0 |
+|     141 | The Great Feast                                          | Laura E Richards         |            528 |        226 |          0 |
+|     142 | The Hero and Tin Soldiers                                | Henry Van Dyke           |           1047 |        119 |          0 |
+|     143 | The Inchcape Rock                                        | James Baldwin            |            659 |        110 |          0 |
+|     144 | The Judge's Spirited Woman                               | Mark Twain               |            543 |        197 |          0 |
+|     145 | The Key Of The Tower                                     | Henry Van Dyke           |            930 |        242 |          0 |
+|     146 | The King and His Hawk                                    | James Baldwin            |            862 |        312 |        214 |
+|     147 | The King's High Way                                      | Henry Van Dyke           |           1020 |        356 |          0 |
+|     148 | The King's Jewel                                         | Henry Van Dyke           |            867 |        391 |        203 |
+|     149 | The Kingdoms                                             | James Baldwin            |            549 |        234 |          0 |
+|     150 | The Lark And Her Young Ones                              | Aesop                    |            304 |        162 |          0 |
+|     151 | The Leap-Frog                                            | Hans Christian Andersen  |            667 |        210 |        199 |
+|     152 | The Legend of Babouscka                                  | Anonymous                |            557 |        220 |          0 |
+|     153 | The Little Glass Bottle                                  | H P Lovecraft            |            458 |        225 |        136 |
+|     154 | The Little Match Girl                                    | Hans Christian Andersen  |           1028 |        157 |          0 |
+|     155 | The Little Old Woman Who Lived in a Shoe                 | Joseph Martin Kronheim   |            970 |        267 |          0 |
+|     156 | The Little Thief in the Pantry                           | Anonymous                |            523 |        186 |        186 |
+|     157 | The Master's Mistake                                     | Henry Lawson             |            940 |        451 |          0 |
+|     158 | The Midnight Ride- Paul Revere                           | James Baldwin            |            937 |        234 |          0 |
+|     159 | The Miller His Son And The Ass                           | Aesop                    |            419 |        194 |          0 |
+|     160 | The Miller of the Dee                                    | James Baldwin            |            390 |        176 |          0 |
+|     161 | The Naughty Boy                                          | Hans Christian Andersen  |            836 |        275 |          0 |
+|     162 | The New Food                                             | Stephen Leacock          |            393 |        128 |          0 |
+|     163 | The New Leaf                                             | Laura E Richards         |            837 |        377 |          0 |
+|     164 | The Night Came Slowly                                    | Kate Chopin              |            296 |        166 |          0 |
+|     165 | The Omnibus                                              | Arthur Quiller Couch     |           1041 |        135 |          0 |
+|     166 | The Other Lodgers                                        | Ambrose Bierce           |            895 |        330 |          0 |
+|     167 | The Owl And The Grasshopper                              | Aesop                    |            397 |        154 |          0 |
+|     168 | The Patient Cat                                          | Laura E Richards         |            430 |        140 |          0 |
+|     169 | The Pig Brother                                          | Laura E Richards         |            572 |        222 |          0 |
+|     170 | The Primitive and His Sandals                            | Henry Van Dyke           |            973 |        199 |          0 |
+|     171 | The Princess and the Pea                                 | Hans Christian Andersen  |            379 |        152 |          0 |
+|     172 | The Prisoner of Zembla                                   | O Henry                  |            660 |        133 |          0 |
+|     173 | The Proud Boy                                            | W. K. Clifford           |            367 |        177 |          0 |
+|     174 | The Saint and the Goblin                                 | Hh Munro Saki            |            988 |        417 |          0 |
+|     175 | The Science vs Luck                                      | Mark Twain               |            955 |        213 |          0 |
+|     176 | The Secret Cave, or John Lees Adventure                  | H P Lovecraft            |            562 |        275 |          0 |
+|     177 | The Sons of William the Conqueror                        | James Baldwin            |            865 |        414 |          0 |
+|     178 | The Story of Cincinnatus                                 | James Baldwin            |           1005 |        388 |          0 |
+|     179 | The Story of Regulus                                     | James Baldwin            |            659 |        139 |          0 |
+|     180 | The Story of William Tell                                | James Baldwin            |            442 |        212 |          0 |
+|     181 | The Sword of Damocles                                    | James Baldwin            |            484 |        221 |        196 |
+|     182 | The Tale of Peter Rabbit                                 | Beatrix Potter           |            951 |        457 |          0 |
+|     183 | The Tale of Tom Kitten                                   | Beatrix Potter           |            674 |        307 |        272 |
+|     184 | The Town Mouse And The Country Mouse                     | Aesop                    |            355 |        169 |        165 |
+|     185 | The Traitor in the House                                 | Henry Van Dyke           |            600 |        228 |          0 |
+|     186 | The Two Brothers and the Gold                            | Leo Tolstoy              |           1027 |        378 |          0 |
+|     187 | The Ungrateful Guest                                     | James Baldwin            |            358 |        168 |          0 |
+|     188 | The Ungrateful Soldier                                   | James Baldwin            |            335 |        142 |        105 |
+|     189 | The White Ship                                           | James Baldwin            |            566 |        224 |        175 |
+|     190 | The Wicked Prince                                        | Hans Christian Andersen  |            978 |        407 |          0 |
+|     191 | The Wolf And The House Dog                               | Aesop                    |            340 |        160 |        182 |
+|     192 | The Young Scout- Andrew Jackson                          | James Baldwin            |            446 |        233 |          0 |
+|     193 | Three Men of Gotham                                      | James Baldwin            |            342 |        166 |        171 |
+|     194 | Tommy                                                    | W. K. Clifford           |            395 |        202 |          0 |
+|     195 | Two Military Executions                                  | Ambrose Bierce           |            827 |        118 |          0 |
+|     196 | Two Nights at Neempani                                   | Arnaba Saha              |            439 |        133 |          0 |
+|     197 | Victor Second                                            | Banjo Paterson           |            963 |        195 |          0 |
+|     198 | Why I Wrote The Yellow Wallpaper                         | Charlotte Perkins Gilman |            442 |        182 |        183 |
+|     199 | Work, Death and Sickness                                 | Leo Tolstoy              |            892 |        412 |        280 |
+|     200 | Wratislav                                                | Hh Munro Saki            |            947 |        371 |        211 |

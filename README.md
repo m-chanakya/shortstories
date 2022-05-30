@@ -45,3 +45,23 @@
 	1. Summaries should be written from a third party perspective. Eg - "This story is about a girl..."
 	2. Summaries should only discuss the plot and try to avoid inferences and opinions not immediately apparent from the story.
 	3. Summaries should maintain the same order of events as they occur in the source text.
+	
+	
+## Cite
+
+```bash
+@inproceedings{malireddy-etal-2018-gold,
+    title = "Gold Corpus for Telegraphic Summarization",
+    author = "Malireddy, Chanakya  and
+      Somisetty, Srivenkata N M  and
+      Shrivastava, Manish",
+    booktitle = "Proceedings of the First Workshop on Linguistic Resources for Natural Language Processing",
+    month = aug,
+    year = "2018",
+    address = "Santa Fe, New Mexico, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W18-3810",
+    pages = "71--77",
+    abstract = "Most extractive summarization techniques operate by ranking all the source sentences and then select the top ranked sentences as the summary. Such methods are known to produce good summaries, especially when applied to news articles and scientific texts. However, they don{'}t fare so well when applied to texts such as fictional narratives, which don{'}t have a single central or recurrent theme. This is because usually the information or plot of the story is spread across several sentences. In this paper, we discuss a different summarization technique called Telegraphic Summarization. Here, we don{'}t select whole sentences, rather pick short segments of text spread across sentences, as the summary. We have tailored a set of guidelines to create such summaries and, using the same, annotate a gold corpus of 200 English short stories.",
+}
+```
